@@ -1,0 +1,13 @@
+1. Is the game to easy or hard?
+The game is easy
+The obstacles move slowly, the player moves fast enough to dodge, you have the phase ability
+2 What 3 changes would you do to make it easier or harder?
+I would make it harder
+I would increase the speed of the obstacles and keep the powerup speed the same, I would limit the phase ability to .1 seconds and increase the amount of time to 2 seconds.
+3. List three things that would give it a "wow" factor.
+Explosions, some more particles, a ui
+4. What parts of the game are fun?
+Making the game, coding the game, using assets from the asset store
+5. What parts of the game are tedious?
+The game was pre built, so I just had to copy the code word for word and do as the instructions said. 
+As for the game, it was a simple and straight forward game with nothing tedious about the gameplay. 
